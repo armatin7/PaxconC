@@ -1,0 +1,15 @@
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.exe.config
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.exe
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.pdb
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.csprojResolveAssemblyReference.cache
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.exe
+c:\users\armatin7\documents\visual studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.pdb
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.exe.config
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.exe
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.pdb
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.exe
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.pdb
+F:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Debug\PaxconC.exe.config
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.exe
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Debug\PaxconC.pdb

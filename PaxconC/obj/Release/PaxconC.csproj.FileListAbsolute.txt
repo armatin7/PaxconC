@@ -1,0 +1,20 @@
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.exe.config
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.exe
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.pdb
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.exe
+D:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.pdb
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.exe.config
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.exe
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.pdb
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.exe.manifest
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.application
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.exe
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\bin\Release\PaxconC.pdb
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.exe.manifest
+L:\Visual Studio 2015\Projects\PaxconC\PaxconC\obj\Release\PaxconC.application
+D:\Works\PaxconC\PaxconC\obj\Release\PaxconC.csprojAssemblyReference.cache
+D:\Works\PaxconC\PaxconC\obj\Release\PaxconC.csproj.CoreCompileInputs.cache
+D:\Works\PaxconC\PaxconC\obj\Release\PaxconC.exe
+D:\Works\PaxconC\PaxconC\obj\Release\PaxconC.pdb
